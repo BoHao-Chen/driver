@@ -1,2 +1,1 @@
-這些程式碼來自linux device driver programming這本書，並非我的原創，我只有修改devon.c這個檔案，其餘的sample.c makefile均未修改。
-上傳這些檔案是為了記錄我學會的程式碼，絕無意剽竊。
+這些程式碼參考自linux device driver programming這本書，並非我的原創，我修改了devon.c這個檔案，其餘的sample.c makefile均未修改。
